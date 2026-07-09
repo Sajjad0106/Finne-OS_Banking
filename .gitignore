@@ -1,0 +1,56 @@
+# Dependencies
+node_modules/
+.pnp
+.pnp.js
+
+# Testing
+coverage/
+
+# Next.js Production Build Output
+.next/
+out/
+
+# Production Build Caches
+.turbo/
+build/
+dist/
+
+# Python Virtual Environments & Caches
+.venv/
+venv/
+env/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.pytest_cache/
+.mypy_cache/
+
+# IDE / Editor configurations
+.idea/
+.vscode/
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
+
+# Local Environment Variables & Secrets
+.env
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+*.log
+
+# Windows Caches
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+# Project Presentation, Scripts, and Guides (kept local only)
+presentation_slides_deck.md
+recording_script.md
+saas_launch_video_script.md
+saas_video_ai_prompts.md
+notebooklm_source_guide.md
